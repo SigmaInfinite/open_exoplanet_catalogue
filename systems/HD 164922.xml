@@ -23,9 +23,10 @@
 			<semimajoraxis>2.11</semimajoraxis>
 			<eccentricity>0.126</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
+			<lastupdate>2016-10-27</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>155.0</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 164922</name>
 		<temperature>5385.0</temperature>
