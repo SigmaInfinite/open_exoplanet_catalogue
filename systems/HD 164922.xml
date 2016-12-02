@@ -17,16 +17,30 @@
 		<spectraltype>K0V</spectraltype>
 		<planet>
 			<name>HD 164922 b</name>
+			<name>IRAS 18005+2618 b</name>
+			<name>WISE J180231.16+261840.6 b</name>
+			<name>HIP 88348 b</name>
+			<name>WDS J18025+2619 A b</name>
+			<name>2MASS J18023085+2618471 b</name>
+			<name>TYC 2099-02717-1 b</name>
+			<name>SAO 85678 b</name>
+			<name>LHS 3353 b</name>
+			<name>BD+26 3151 b</name>
+			<name>GJ 9613 b</name>
+			<name>GJ 700.2 b</name>
+			<periastron errorminus="-20.0" errorplus="24.0">129.0</periastron>
+			<istransiting>0</istransiting>
+			<longitude>52.297843</longitude>
+			<declination>26.313002</declination>
 			<list>Confirmed planets</list>
 			<mass>0.36</mass>
-			<period>1155</period>
-			<semimajoraxis>2.11</semimajoraxis>
-			<eccentricity>0.126</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>2016-10-27</lastupdate>
-			<discoveryyear>2006</discoveryyear>
-			<temperature>155.0</temperature>
-			<istransiting>0</istransiting>
+			<period errorminus="-5.5" errorplus="5.6">1201.1</period>
+			<semimajoraxis errorminus="-0.012" errorplus="0.012">2.115</semimajoraxis>
+			<eccentricity errorminus="-0.05" errorplus="0.049">0.126</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>06/07/15</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+			<temperature errorminus="-2" errorplus="2">159</temperature>
 		</planet>
 		<name>HD 164922</name>
 		<temperature>5385.0</temperature>
